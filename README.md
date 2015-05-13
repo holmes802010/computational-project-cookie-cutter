@@ -1,5 +1,5 @@
+A workshop held at BU school of Medicine.
 # computational-project-cookie-cutter
-
 [![DOI](https://zenodo.org/badge/11594/chendaniely/computational-project-cookie-cutter.svg)](#DOI)
 
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
